@@ -1,3 +1,6 @@
+<head>
+  
+</head>
 <h1> No soy un Robot, Soy SamuelsDevs un desarrollador 👋 </h1>
 
 <h3> Sobre mi <h3>
