@@ -19,24 +19,33 @@
 - 👯 Estudiante de Ingenieria de Sistemas
 - 📚 Tecnico en Desarrollo de Software
 <div>
-<h3>Habilidades Digitales</h3>
+<h3 align="center"> Habilidades Digitales </h3>
 <!-- FORNT -->
     <h4>FRONTEND</h4>
-<img src="https://img.shields.io/badge/HTML-0A1F44?style=for-the-badge&amp;logo=html5&apm;logoColor=black" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/CSS-ff9?style=for-the-badge&amp;logo=css&amp;logoColor=black" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/JAVASCRIPT-ff9?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/HTML-005F5B?style=for-the-badge&amp;logo=html5&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/CSS-005F5B?style=for-the-badge&amp;logo=css&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/JAVASCRIPT-005F5B?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/BOOTSTRAP 5-005F5B?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=black" style="max-width: 100%;">
 <!-- BACK -->
     <h4>BACKEND</h4>
-<img src="https://img.shields.io/badge/PHP-ff9?style=for-the-badge&amp;logo=php&amp;logoColor=black" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/PYTHON-ff9?style=for-the-badge&amp;logo=python&amp;logoColor=black" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/JAVA SPRINGBOOT-ff9?style=for-the-badge&amp;logo=github&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/PHP-005F5B?style=for-the-badge&amp;logo=php&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/PYTHON-005F5B?style=for-the-badge&amp;logo=python&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/JAVA-005F5B?style=for-the-badge&amp;logo=java&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/SPRING BOOT-005F5B?style=for-the-badge&amp;logo=spring boot&amp;logoColor=black" style="max-width: 100%;">
 <!-- DATABASE-->
     <h4>BASES DE DATOS</h4>
 <img src="https://img.shields.io/badge/MYSQL-005F5B?style=for-the-badge&logo=mysql&logoColor=black&logoSize=150" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/MONGODB-ff9?style=for-the-badge&amp;logo=mongodb&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/MONGODB-005F5B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=black" style="max-width: 100%;">
 <!-- CONTROL VERSION -->
     <h4>VERSIONAMIENTO</h4>
-<img src="https://img.shields.io/badge/GITHUB-ff9?style=for-the-badge&amp;logo=github&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/GITHUB-005F5B?style=for-the-badge&amp;logo=github&amp;logoColor=black" style="max-width: 100%;">
 
 
+</div>
+<h3>Proyectos Principales</h3>
+<div align ="center">
+    <table>
+        <td ><h4 algin ="center">SoftElis</h4></td>
+        <td ><h4 align ="center">SoftBuys</h4></td>
+    </table>
 </div>
