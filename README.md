@@ -45,7 +45,13 @@
 <h3>Proyectos Principales</h3>
 <div align ="center">
     <table>
-        <td ><h4 algin ="center">SoftElis</h4></td>
-        <td ><h4 align ="center">SoftBuys</h4></td>
+        <td >
+            <h4 align ="center">SoftElis</h4>
+            <p align ="center">Proyecto realizado con el 90% de mi participacion para la multinacional Elis Colombia, para un cliente, con proposito de inventariado de prendas, movimiento y facturacion mensual de las mismas, asi como impresion de reportes personalizados</p>
+        </td>
+        <td >
+            <h4 align ="center">SoftBuys</h4>
+            <p align ="center">Proyecto realizado con el 90% de mi participacion para la multinacional Elis Colombia, para el area de compras para el monitoreo de solicitudes personalizadas de pedidos y notificaciones de estado para los jefes del area</p>
+        </td>
     </table>
 </div>
